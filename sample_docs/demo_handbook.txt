@@ -1,0 +1,18 @@
+Northstar Analytics — Fictional Employee Handbook
+
+Paid Time Off
+Full-time employees receive 15 paid time off days per calendar year. PTO requests should normally be submitted at least five business days in advance. Managers may approve shorter notice for unexpected circumstances.
+
+Remote Work
+Eligible employees may work remotely up to two days per week with manager approval. Remote schedules should be documented with the employee's team. Employees working remotely must remain available during their team's core collaboration hours.
+
+Information Security
+Remote employees must use company-approved devices, multi-factor authentication, and the company password manager. Confidential company information may not be stored on personal devices or personal cloud-storage accounts.
+
+Business Expenses
+Reasonable business expenses are reimbursable when they are directly related to approved company work. Itemized receipts are required for individual expenses of $25 or more. Expense reports should be submitted within 30 days of the purchase.
+
+Performance Reviews
+Formal performance reviews are conducted twice each year, in March and September. Managers and employees review goals, accomplishments, development priorities, and next-step objectives.
+
+This handbook is fictional and included only as demonstration data for the AI Document Assistant portfolio project.
